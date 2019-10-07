@@ -1,0 +1,43 @@
+body {
+    background-image: url("../img/fondo.jpg");
+    background-repeat: no-repeat, repeat;
+    font-family: 'Oswald', sans-serif;
+	background-size: 100% 100%;
+}
+html {
+    height: 100%
+}
+.myclass {
+	position: absolute;
+	bottom: 100px;
+	right: 70px;
+	
+}
+.logo {
+	width: 100px;
+}
+#principal {
+	display: flex
+}
+#div2 {
+	style="position: relative"
+} 
+#div1 {
+	margin-left: 150px; 
+	margin-top: 100px; 
+	width: 650px;
+}
+p{
+	color: whitesmoke; 
+	font-size: 1.5em;
+}
+
+#instagram {
+	right: 170px;
+}
+
+
+
+
+
+
